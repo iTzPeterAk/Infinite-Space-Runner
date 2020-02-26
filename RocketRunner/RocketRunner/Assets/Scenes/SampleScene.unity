@@ -235,9 +235,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rocketPos:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
+  - {x: -15, y: -5, z: 0}
+  - {x: -15, y: 0, z: 0}
+  - {x: -15, y: 5, z: 0}
   currPosIndex: 1
   t: 0
   moveSpeed: 7
